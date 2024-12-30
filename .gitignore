@@ -1,3 +1,8 @@
+# Ignore node_modules
 node_modules/
+
+# Ignore Config folder's default.json
 Config/default.json
+
+# Ignore any other default.json files in the root or subfolders
 default.json
